@@ -1,5 +1,7 @@
 # stackoverflow-fanatic
 
+## Usage
+
 Command for visit Stack Overflow:
 
 ```
@@ -12,3 +14,7 @@ $ docker run \
 ```
 
 You can add it to crontab with desired frequency.
+
+## Links
+
+Original: https://github.com/Thom-x/stackoverflow-fanatic
